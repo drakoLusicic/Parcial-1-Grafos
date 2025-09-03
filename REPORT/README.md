@@ -5,13 +5,16 @@ Este repositorio contiene el informe breve del proyecto desarrollado en torno a 
 El informe se presenta como un complemento teórico al código y a las pruebas realizadas, proporcionando una visión más profunda sobre las decisiones adoptadas durante el desarrollo.
 
 ### 📜 Contenido del Informe
-- Cuando conviene cada algoritmo:
+- **Cuando conviene cada algoritmo:**
+  
   Explicación de los contextos y casos de uso más adecuados para BFS, Dijkstra, Floyd-Warshall, Bellman-Ford, A* y Prim/Kruskal (MST).
   
-- Complejidades y decisiones de representación:
+- **Complejidades y decisiones de representación:**
+  
   Análisis de la eficiencia temporal y espacial de cada algoritmo, junto con la justificación de las estructuras de datos utilizadas (listas de adyacencia, matrices, etc.).
 
-- Limitaciones conocidas:
+- **Limitaciones conocidas:**
+  
   Identificación de restricciones y comportamientos particulares, como por ejemplo:
   - A* con heurística h=0 degenera en Dijkstra.
   - Bellman-Ford es más costoso que Dijkstra, pero necesario con aristas negativas.
