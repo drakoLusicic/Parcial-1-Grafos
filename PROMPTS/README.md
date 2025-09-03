@@ -9,7 +9,7 @@ En este repositorio se incluye un documento que recopila los diálogos y prompts
   
 - Reflexiones sobre lo aprendido en cada etapa.
 
-### 👾 Utilidad de la IA en programación
+### 🤖 Utilidad de la IA en programación
 El uso de modelos de Inteligencia Artificial resulta especialmente valioso en el ámbito de la programación porque:
 - Facilitan la comprensión teórica de algoritmos complejos, como los aplicados en grafos (BFS, Dijkstra, A*, etc.).
   
