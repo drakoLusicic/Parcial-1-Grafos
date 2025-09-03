@@ -2,7 +2,12 @@
 ### Integrantes: 
 Ignacio Griboff; Drako Lusicic; Facundo Zampetti.;
 ### Introduccion:
-En este repositorio se encuentra la documentacion con las explicaciones claras del concepto de Grafos y su aplicacion en diferentes algoritmos que calculan rutas con costos, saltos y obstaculos.
+Este repositorio reúne todo el material y documentacion relacionado las explicaciones del concepto de Grafos y su aplicacion en diferentes algoritmos que calculan rutas con costos, saltos y obstaculos. Este incluye:
+- Código fuente en C++: implementación completa de los algoritmos estudiados.
+
+- Casos de Prueba: ejemplos prácticos que muestran el funcionamiento y los resultados obtenidos por cada algoritmo.
+
+- Reporte breve: documentación del proceso seguido, las decisiones tomadas y el análisis de resultados.
 ### Los algoritmos que se demuestran son:
   - BSF: Algoritmo de búsqueda en anchura que recorre un grafo nivel por nivel, útil para encontrar el camino más corto en grafos no ponderados.
     
@@ -16,5 +21,4 @@ En este repositorio se encuentra la documentacion con las explicaciones claras d
     
   - PRIM/KRUSKAL (MST): Algoritmos que construyen un árbol recubridor mínimo (MST) de un grafo ponderado, minimizando el costo total de conexión.
     
-Ademas se proporciona un sistema programado en lenguaje C++, que integra de manera homogenea todos los algoritmos basados en un grafo que puede ser cargado manualmente o mediante un archivo con un formato predeterminado, para la comprension del usuario y para la prueba de los diferentes algoritmos basandose en una sola funcion de carga manual y una de carga desde archivo compatible para los 6.
 Como equipo esperamos que sea de facil comprension y lo disfrute!
