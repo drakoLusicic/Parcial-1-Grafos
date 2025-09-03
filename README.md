@@ -1,8 +1,8 @@
 # SUITE DE ALGORITMOS DE GRAFOS EN C++
 ### Integrantes: 
 Ignacio Griboff; Drako Lusicic; Facundo Zampetti.;
-### Introduccion:
-Este repositorio reúne todo el material y documentacion relacionado las explicaciones del concepto de Grafos y su aplicacion en diferentes algoritmos que calculan rutas con costos, saltos y obstaculos. Este incluye:
+### Introducción:
+Este repositorio reúne todo el material y documentación relacionado las explicaciones del concepto de Grafos y su aplicación en diferentes algoritmos que calculan rutas con costos, saltos y obstáculos. Este incluye:
 - Código fuente en C++: implementación completa de los algoritmos estudiados.
 
 - Consultas: documentación con diálogos y prompts realizados a distintas inteligencias Artificiales.
@@ -11,4 +11,4 @@ Este repositorio reúne todo el material y documentacion relacionado las explica
 
 - Casos de Prueba: ejemplos prácticos que muestran el funcionamiento y los resultados obtenidos por cada algoritmo.
 
-Como equipo esperamos que sea de facil comprension y lo disfrute!
+Como equipo esperamos que sea de fácil comprensión y lo disfrute!
