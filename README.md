@@ -7,8 +7,8 @@ Este repositorio reúne todo el material y documentacion relacionado las explica
 
 - Consultas: documentación con diálogos y prompts realizados a distintas inteligencias Artificiales.
 
+- Reporte breve: documentación del proceso seguido, las decisiones tomadas y el análisis de resultados.
+
 - Casos de Prueba: ejemplos prácticos que muestran el funcionamiento y los resultados obtenidos por cada algoritmo.
 
-- Reporte breve: documentación del proceso seguido, las decisiones tomadas y el análisis de resultados.
- 
 Como equipo esperamos que sea de facil comprension y lo disfrute!
