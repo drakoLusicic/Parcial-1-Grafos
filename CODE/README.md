@@ -27,11 +27,11 @@ Estas funcionalidades hacen posible estudiar desde recorridos simples como BFS, 
     
 #### ✔️ Resultados mostrados:
 - Distancia mínima
-
-Código: https://drive.google.com/file/d/1F5_zyYAp6_EkDJM2Ru1kduMVBbmuLJjc/view?usp=drive_link
   
 - Ruta/árbol encontrado
   
 - Complejidad teórica usada
   
 - Tiempo de ejecución medido
+
+Código: https://drive.google.com/file/d/1F5_zyYAp6_EkDJM2Ru1kduMVBbmuLJjc/view?usp=drive_link
